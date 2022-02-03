@@ -1,0 +1,16 @@
+{
+  "name": "batch4-day15-php2/batch4-day15-php2",
+  "type": "project",
+  "description": "A single class project",
+  "license": "",
+  "keywords": [],
+  "require": {},
+  "require-dev": {
+
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "app//"
+    }
+  }
+}
